@@ -1,12 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Octopus Energy Colours",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
-  },
+  "primary": "#DA1884",
+  "light": "#FFB3D1",
+  "dark": "#1B0044"
+},
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
